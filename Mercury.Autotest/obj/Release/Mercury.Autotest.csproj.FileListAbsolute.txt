@@ -1,0 +1,23 @@
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Mercury.Autotest\Mercury.Autotest\bin\Release\Mercury.Autotest.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Mercury.Autotest\Mercury.Autotest\bin\Release\Mercury.Autotest.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Mercury.Autotest\Mercury.Autotest\bin\Release\nunit.framework.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Mercury.Autotest\Mercury.Autotest\bin\Release\RelevantCodes.ExtentReports.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Mercury.Autotest\Mercury.Autotest\bin\Release\WebDriver.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Mercury.Autotest\Mercury.Autotest\bin\Release\WebDriver.Support.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Mercury.Autotest\Mercury.Autotest\bin\Release\nunit.framework.xml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Mercury.Autotest\Mercury.Autotest\bin\Release\WebDriver.xml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Mercury.Autotest\Mercury.Autotest\bin\Release\WebDriver.Support.xml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Mercury.Autotest\Mercury.Autotest\obj\Release\Mercury.Autotest.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Mercury.Autotest\Mercury.Autotest\obj\Release\Mercury.Autotest.pdb
+C:\Users\Home\Desktop\Mercury.Autotest\Mercury.Autotest\bin\Release\Mercury.Autotest.dll
+C:\Users\Home\Desktop\Mercury.Autotest\Mercury.Autotest\bin\Release\Mercury.Autotest.pdb
+C:\Users\Home\Desktop\Mercury.Autotest\Mercury.Autotest\bin\Release\nunit.framework.dll
+C:\Users\Home\Desktop\Mercury.Autotest\Mercury.Autotest\bin\Release\RelevantCodes.ExtentReports.dll
+C:\Users\Home\Desktop\Mercury.Autotest\Mercury.Autotest\bin\Release\WebDriver.dll
+C:\Users\Home\Desktop\Mercury.Autotest\Mercury.Autotest\bin\Release\WebDriver.Support.dll
+C:\Users\Home\Desktop\Mercury.Autotest\Mercury.Autotest\bin\Release\nunit.framework.xml
+C:\Users\Home\Desktop\Mercury.Autotest\Mercury.Autotest\bin\Release\WebDriver.xml
+C:\Users\Home\Desktop\Mercury.Autotest\Mercury.Autotest\bin\Release\WebDriver.Support.xml
+C:\Users\Home\Desktop\Mercury.Autotest\Mercury.Autotest\obj\Release\Mercury.Autotest.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\Mercury.Autotest\Mercury.Autotest\obj\Release\Mercury.Autotest.dll
+C:\Users\Home\Desktop\Mercury.Autotest\Mercury.Autotest\obj\Release\Mercury.Autotest.pdb
